@@ -1,6 +1,6 @@
 ### Hi there 👋, İrem
 #### Bioinformatics Enthusiast
-![Bioinformatics Enthusiast](https://www.mayo.edu/-/media/kcms/gbs/research/images/2021/03/18/16/52/cim-research-programs-bioinformatics-8col-shu-430949605.jpg)
+![Bioinformatics Enthusiast](https://github.com/igunduz/igunduz/blob/main/bioinformatics.jpg)
 
 I'm Irem from Germany and, I enjoy writing scripts to do genomic data mining and analysis. My particular interest is in developing predictive models that use genomic data in both Python and R. 
 
