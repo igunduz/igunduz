@@ -10,10 +10,5 @@ I enjoy writing scripts to do genomic data mining and analysis. My particular in
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/igunduz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibgunduz/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_irembegum)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=igunduz)  
+![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical)
 
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true" width="500" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igunduz" width="500" /> 
-</p>
