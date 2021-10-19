@@ -10,7 +10,6 @@ I enjoy programming to do genomic data mining and analysis. My particular intere
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/igunduz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibgunduz/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_irembegum)  
 
 
-![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical)
 
 #### I'm the maintainer of the following software:
 
@@ -20,4 +19,5 @@ I enjoy programming to do genomic data mining and analysis. My particular intere
 
 ## GitHub statistics
 
-[![Irem's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=igunduz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Irem's Stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igunduz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
