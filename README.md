@@ -12,3 +12,8 @@ I enjoy programming to do genomic data mining and analysis. My particular intere
 
 ![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical)
 
+#### I'm the maintainer of the following software:
+
+| Package | BioC-devel | BioC-release |
+|:----------------:|:----------------:|:----------------:|
+| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](http://bioconductor.org/shields/build/devel/bioc/deconvR.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR)
