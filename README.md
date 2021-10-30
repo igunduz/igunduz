@@ -4,7 +4,7 @@
 
 I enjoy programming to do genomic data mining and analysis. My particular interest is in developing predictive models that use genomic data in both Python and R. 
 
-**Skills**: `R` / `Python` / `Java` / `Machine Learning` / `Bioinformatics` [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/igunduz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibgunduz/) 
+**Skills**: `R` / `Python` / `Java` / `Machine Learning` / `Deep Learning` / `Bioinformatics` [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/igunduz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibgunduz/) 
 
 
 
