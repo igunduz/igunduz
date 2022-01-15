@@ -4,13 +4,6 @@
 
 I enjoy programming to do genomic data mining and analysis. My particular interest is in developing predictive models that use genomic data in both Python and R. 
 
-**Skills**: `R` / `Python` / `Machine Learning` / `Deep Learning` / `Bioinformatics` 
-
-
-
-
-
-
 #### I'm the maintainer of the following software:
 
 | Package | BioC-devel | BioC-release |
