@@ -8,7 +8,10 @@ I enjoy programming to do genomic data mining and analysis. My particular intere
 
 | Package | BioC-devel | BioC-release |
 |:----------------:|:----------------:|:----------------:|
-| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](http://bioconductor.org/shields/build/devel/bioc/deconvR.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/deconvR) |[![](http://bioconductor.org/shields/build/devel/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR)
+| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR)
+
+[![R-CMD-check-bioc](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/check-bioc.yml)
+[![R-CMD-check](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml)
 
 ## GitHub statistics
 
