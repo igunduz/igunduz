@@ -10,9 +10,6 @@ I enjoy programming to do genomic data mining and analysis. My particular intere
 |:----------------:|:----------------:|:----------------:|
 | [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR)
 
-[![R-CMD-check-bioc](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/check-bioc.yml)
-[![R-CMD-check](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml)
-
 ## GitHub statistics
 
 ![Irem's Stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical) 
