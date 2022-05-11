@@ -1,5 +1,5 @@
 
-<a href="url"><img src="https://media.giphy.com/media/DUQwzXb64bU0ynjbqe/giphy.gif?cid=790b76117a1d464bb2cd3ca9ad147c79f15f9211a0c08d3c&rid=giphy.gif&ct=g" align="center" height="500" width="800" ></a>
+<a href="url"><img src="https://media.giphy.com/media/DUQwzXb64bU0ynjbqe/giphy.gif?cid=790b76117a1d464bb2cd3ca9ad147c79f15f9211a0c08d3c&rid=giphy.gif&ct=g" align="center" height="500" width="700" ></a>
 
 #### I'm the maintainer of the following software:
 
@@ -11,3 +11,4 @@
 
 ![Irem's Stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical) 
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igunduz)
