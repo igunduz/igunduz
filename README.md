@@ -9,6 +9,4 @@
 
 ## GitHub statistics
 
-![Irem's Stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical) 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igunduz)
+![Irem's Stats](https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=true&count_private=true&theme=radical) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igunduz)
