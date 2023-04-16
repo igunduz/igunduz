@@ -6,6 +6,6 @@
 
 | Package | Version | BioC-release | Info|
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](https://img.shields.io/badge/release%20version-1.4.3-green.svg)](https://www.bioconductor.org/packages/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) | Simulation and Deconvolution of Omic Profiles |
+| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](https://img.shields.io/badge/release%20version-1.4.6-green.svg)](https://www.bioconductor.org/packages/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) | Simulation and Deconvolution of Omic Profiles |
 
 
