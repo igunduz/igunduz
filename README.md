@@ -8,4 +8,7 @@
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](https://img.shields.io/badge/release%20version-1.6.0-green.svg)](https://www.bioconductor.org/packages/deconvR) |[![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) | Simulation and Deconvolution of Omic Profiles |
 
+<center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igunduz&show_icons=false&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+</center>
 
