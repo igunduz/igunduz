@@ -6,7 +6,7 @@
 
 | Package | Version | BioC-release | Info |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](https://img.shields.io/badge/release%20version-1.10.0-green.svg)](https://www.bioconductor.org/packages/deconvR) | [![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) | Simulation and Deconvolution of Omic Profiles |
+| [_deconvR_](https://github.com/BIMSBbioinfo/deconvR) | [![](https://img.shields.io/badge/release%20version-1.14.0-green.svg)](https://www.bioconductor.org/packages/deconvR) | [![](http://bioconductor.org/shields/build/release/bioc/deconvR.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/deconvR) | Simulation and Deconvolution of Omic Profiles |
 | [_methylTFR_](https://github.com/EpigenomeInformatics/methylTFR) | [![](https://img.shields.io/badge/release%20version-1.0.0-blue.svg)](https://github.com/EpigenomeInformatics/methylTFR/releases) | – | Quantification of DNA Methylation Patterns in TFBS |
 
 
