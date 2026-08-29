@@ -1,6 +1,11 @@
 
 <a href="url"><img src="https://media.giphy.com/media/DUQwzXb64bU0ynjbqe/giphy.gif?cid=790b76117a1d464bb2cd3ca9ad147c79f15f9211a0c08d3c&rid=giphy.gif&ct=g" align="center" height="500" width="800" ></a>
 
+*PhD candidate* in computational biology at [Saarland University](https://icb.uni-saarland.de/), in the **Integrative Cellular Biology and Bioinformatics** group. I work on how cells establish and change their identity, using single-cell and bulk multi-omics data, including chromatin accessibility, DNA methylation, and transcriptomics, and machine learning that remains interpretable enough to argue with.
+ 
+Most of what I build ends up as software other people run: three R packages, one Python package, and the reproducible workflows around them. I care about the part after the analysis works, when someone else has to use it without me sitting next to them.
+ 
+Currently, I am finishing my thesis, developing ARTEMIS, and looking for what comes next.
 
 #### I'm the developer/maintainer of the following software:
 
