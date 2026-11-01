@@ -5,8 +5,6 @@
  
 Most of what I build ends up as software other people run: three R packages, one Python package, and the reproducible workflows around them. I care about the part after the analysis works, when someone else has to use it without me sitting next to them.
  
-Currently, I am finishing my thesis, developing ARTEMIS, and looking for what comes next.
-
 #### I'm the developer/maintainer of the following software:
 
 ## 💻 Software Contributions
